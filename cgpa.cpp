@@ -44,7 +44,7 @@ if(x>=90)
 {
     cout<<"D+";
 }
-  else if (x>=55 && x<=60 )
+  else if (x>=50 && x<=60 )
  {
      cout<<"D";
  }
